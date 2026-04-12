@@ -1,6 +1,6 @@
 # 👋 Hi, I'm taozy
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 AI Algorithm Engineer | 🚗 LLM/Automatic Driving/Embodied Intelligence 从业者 | 🎮 游戏爱好者
+💻 AI Algorithm Engineer | 🚗 LLM/Autonomous Driving/Embodied Intelligence 从业者 | 🎮 游戏爱好者
 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
