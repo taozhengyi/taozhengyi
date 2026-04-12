@@ -29,7 +29,7 @@
 - 🔭 目前专注于：自动驾驶算法、具身智能
 - 🌱 学习中：VLM、世界模型
 - 💬 擅长：LLM、DL/RL
-- 📫 联系我： `taoz0005@e.ntu.edu.sg` | [个人博客](https://xxx.com)
+- 📫 联系我： `taozy_98@163.com | taoz0005@e.ntu.edu.sg` | [个人博客](https://blog.csdn.net/qq_45753034?type=blog)
 - ⚡ 趣味：🌏旅游、🏂滑雪、🎮Steam 游戏爱好者
 
 ## 📊 我的 GitHub 数据
