@@ -1,6 +1,6 @@
 # 👋 Hi, I'm taozy
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 AI Algorithm Engineer | 🚗 LLM/Autonomous Driving/Embodied Intelligence | 🎮 Game Player
+💻 AI Algorithm Engineer | 🚗 LLM/Autonomous Driving/Embodied Intelligence
 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
@@ -26,11 +26,11 @@
 </div>
 
 ## 📌 About Me
-- 🔭 Focus：Autonomous driving algorithms, embodied intelligence
+- 🔭 Fields：Autonomous driving algorithms, Embodied intelligence
 - 🌱 Learning: VLM, World Models
-- 💬 Skill：LLM、DL/RL
+- 💬 Skills：LLM、DL/RL
 - 📫 Contact me： `taozy_98@163.com | taoz0005@e.ntu.edu.sg` | [Blog](https://blog.csdn.net/qq_45753034?type=blog)
-- ⚡ Interests：🌏Traveling、🏂Skiing、🎮Steam Game Player
+- ⚡ Interests：🌏Traveling、🏂Skiing
 
 ## 🌟 Key Project
 | Project Name | Technology stack | Introduction |
