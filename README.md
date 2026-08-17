@@ -32,23 +32,8 @@
 - 📫 Contact me： `taozy_98@163.com | taoz0005@e.ntu.edu.sg` | [Blog](https://blog.csdn.net/qq_45753034?type=blog)
 - ⚡ Interests：🌏Traveling、🏂Skiing、🎮Steam Game Player
 
-## 📊 GitHub Data
-<!-- 自动生成的 GitHub 统计卡片 -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taozhengyi&theme=tokyonight" style="width: 98%;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taozhengyi&theme=tokyonight" style="width: 48%;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taozhengyi&theme=tokyonight" style="width: 48%;"/>
-</div>
-
 ## 🌟 Key Project
 | Project Name | Technology stack | Introduction |
 |---------|--------|------|
 | [Project 1](https://github.com/taozhengyi/autonomous-driving) | VLM + WFM| "Autonomous Driving System": Achieves autonomous driving based on a world model |
 | [Project 2](https://github.com/taozhengyi/embodied) | VLA | "Embodied Intelligent Robot": Provides a supporting simulation environment, enabling functions such as standing and walking |
-
-## 🎨 Interesting data
-<!-- GitHub 贡献图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taozhengyi&theme=react-dark&hide_border=true" alt="Contribution graph" style="width: 100%;"/>
-</div>
-
